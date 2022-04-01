@@ -20,16 +20,10 @@ export default {
 			percentage: "70",
 		},
 		{
-			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
-			color: "6",
-			percentage: "50",
-		},
-		{
-			title: "Languages",
-			skillName: "Javascipt, C++",
-			color: "2",
-			percentage: "60",
+			title: "Version Control",
+			skillName: "GitHub",
+			color: "7",
+			percentage: "70",
 		},
 		{
 			title: "Machine Learning",
@@ -38,16 +32,22 @@ export default {
 			percentage: "70",
 		},
 		{
+			title: "Languages",
+			skillName: "Javascipt, C++",
+			color: "2",
+			percentage: "60",
+		},
+		{
+			title: "Frameworks/Libraries",
+			skillName: "Angular, Reactjs",
+			color: "6",
+			percentage: "50",
+		},
+		{
 			title: "Design",
 			skillName: "HTML, Bootstrap, SCSS",
 			color: "4",
 			percentage: "40",
-		},
-		{
-			title: "Version Control",
-			skillName: "GitHub",
-			color: "7",
-			percentage: "70",
 		},
 		{
 			title: "Editor",
