@@ -34,7 +34,7 @@ export default {
 		{
 			title: "Machine Learning",
 			skillName: "PyTorch, Tensorflow",
-			color: "3",
+			color: "5",
 			percentage: "70",
 		},
 		{
