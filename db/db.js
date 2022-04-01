@@ -22,7 +22,7 @@ export default {
 		{
 			title: "Version Control",
 			skillName: "GitHub",
-			color: "7",
+			color: "6",
 			percentage: "70",
 		},
 		{
@@ -52,7 +52,7 @@ export default {
 		{
 			title: "Editor",
 			skillName: "VS Code",
-			color: "6",
+			color: "7",
 			percentage: "40",
 		},
 	],
