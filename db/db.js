@@ -120,12 +120,25 @@ export default {
 				"Data Structures & Algorithms",
 				"Operating Systems",
 				"Computer Vision",
-				"Computer Networks",
 				"Computer Graphics",
 				"Machine Learning",
 			],
 			icon: "graduation-cap",
 		},
+		{
+			title: "Masters in Computer Science and Engineering",
+			duration: "2022-2023",
+			dubtitle: "Cornell University",
+			details: [
+			],
+			tags: [
+				"Reinforcement Learning",
+				"Biomedical Images Analysis",
+				"Cryptography",
+				"Computer Networks",
+			],
+			icon: "graduation-cap",
+		}
 	],
 	footer: [
 		{
