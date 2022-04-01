@@ -295,7 +295,7 @@
 		mobileMenuOutsideClick();
 		sliderMain();
 		stickyFunction();
-		owlCrouselFeatureSlide();
+		// owlCrouselFeatureSlide();
 	});
 })();
 
