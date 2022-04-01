@@ -57,14 +57,26 @@ export default {
 		},
 	],
 	projects: {
-		web: [
+		academic: [
 			{
-				projectName: "Financial Scraper",
-				image: "images/web-scraper.png",
+				projectName: "Skull CT Neural Net",
+				image: "images/skull-ct.png",
 				summary:
-					"Developed a Financial Web Scraper to pull information on NYSE listed stocks.",
-				preview: "https://github.com/FCameron/url_scraper",
-				techStack: ["Selenium", "Python"],
+					"Developed a CNN to predict the phase shift of ultrasound passing through skull.",
+				preview: "https://github.com/FCameron/neuralNetProject2018",
+				techStack: [
+					"Tensorflow",
+					"Python",
+					"Numpy",
+				],
+			},
+			{
+				projectName: "MRI Generator",
+				image: "images/gan.png",
+				summary:
+					"Researched using StyleGAN2 to generate brain MRI data for potential future network training.",
+				preview: "https://drive.google.com/file/d/1lDyhS3Ml2q9B-zO7wv-tOs90WBy7YJQg/view?usp=sharing",
+				techStack: ["Python", "StyleGAN2"],
 			},
 		],
 		software: [
@@ -86,26 +98,14 @@ export default {
 				techStack: ["OpenGL", "HTML", "JavaScript", "anigraph"],
 			},
 		],
-		academic: [
+		web: [
 			{
-				projectName: "Skull CT Neural Net",
-				image: "images/skull-ct.png",
+				projectName: "Financial Scraper",
+				image: "images/web-scraper.png",
 				summary:
-					"Developed a CNN to predict the phase shift of ultrasound passing through skull.",
-				preview: "https://github.com/FCameron/neuralNetProject2018",
-				techStack: [
-					"Tensorflow",
-					"Python",
-					"Numpy",
-				],
-			},
-			{
-				projectName: "MRI Generator",
-				image: "images/gan.png",
-				summary:
-					"Researched using StyleGAN2 to generate brain MRI data for potential future network training.",
-				preview: "https://drive.google.com/file/d/1lDyhS3Ml2q9B-zO7wv-tOs90WBy7YJQg/view?usp=sharing",
-				techStack: ["Python", "StyleGAN2"],
+					"Developed a Financial Web Scraper to pull information on NYSE listed stocks.",
+				preview: "https://github.com/FCameron/url_scraper",
+				techStack: ["Selenium", "Python"],
 			},
 		],
 	},

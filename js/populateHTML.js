@@ -209,9 +209,9 @@ function populateLinks(items, id) {
 
 populateSkills(data.skills, "skills");
 
-populateProjects(data.projects.web, "web-projects");
-populateProjects(data.projects.software, "software-projects");
 populateProjects(data.projects.academic, "academic-projects");
+populateProjects(data.projects.software, "software-projects");
+populateProjects(data.projects.web, "web-projects");
 
 populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
