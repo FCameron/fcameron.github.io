@@ -112,7 +112,7 @@ export default {
 	education: [
 		{
 			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
+			duration: "2018-2022",
 			subtitle: "Cornell University",
 			details: [
 			],
