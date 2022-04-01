@@ -59,18 +59,6 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Skull CT Neural Net",
-				image: "images/skull-ct.png",
-				summary:
-					"Developed a CNN to predict the phase shift of ultrasound passing through skull.",
-				preview: "https://github.com/FCameron/neuralNetProject2018",
-				techStack: [
-					"Tensorflow",
-					"Python",
-					"Numpy",
-				],
-			},
-			{
 				projectName: "Financial Scraper",
 				image: "images/web-scraper.png",
 				summary:
@@ -89,8 +77,28 @@ export default {
 					"https://github.coecis.cornell.edu/cel243/3110_FINAL_PROJECT",
 				techStack: ["Ocaml"],
 			},
+			{
+				projectName: "Procedural World Generator",
+				image: "images/world-gen.png",
+				summary:
+					"Procedural world generation along with basic movement controls and ray tracing.",
+				preview: "https://github.coecis.cornell.edu/aky26/CS4621-final-project",
+				techStack: ["OpenGL", "HTML", "JavaScript", "anigraph"],
+			},
 		],
 		academic: [
+			{
+				projectName: "Skull CT Neural Net",
+				image: "images/skull-ct.png",
+				summary:
+					"Developed a CNN to predict the phase shift of ultrasound passing through skull.",
+				preview: "https://github.com/FCameron/neuralNetProject2018",
+				techStack: [
+					"Tensorflow",
+					"Python",
+					"Numpy",
+				],
+			},
 			{
 				projectName: "MRI Generator",
 				image: "images/gan.png",
@@ -98,14 +106,6 @@ export default {
 					"Researched using StyleGAN2 to generate brain MRI data for potential future network training.",
 				preview: "https://drive.google.com/file/d/1lDyhS3Ml2q9B-zO7wv-tOs90WBy7YJQg/view?usp=sharing",
 				techStack: ["Python", "StyleGAN2"],
-			},
-			{
-				projectName: "Minecraft Style World Generation",
-				image: "images/world-gen.png",
-				summary:
-					"Procedural world generation along with basic movement controls and ray tracing.",
-				preview: "https://github.coecis.cornell.edu/aky26/CS4621-final-project",
-				techStack: ["OpenGL", "HTML", "JavaScript", "anigraph"],
 			},
 		],
 	},
