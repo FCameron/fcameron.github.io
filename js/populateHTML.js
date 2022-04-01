@@ -213,6 +213,7 @@ populateProjects(data.projects.web, "web-projects");
 populateProjects(data.projects.software, "software-projects");
 populateProjects(data.projects.academic, "academic-projects");
 
+populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
 
 populateLinks(data.footer, "footer");

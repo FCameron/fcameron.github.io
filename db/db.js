@@ -109,6 +109,18 @@ export default {
 			},
 		],
 	},
+	experience: [
+		{
+			title: "Stanford IT",
+			subtitle: "SDE Intern",
+			details: [
+				"Worked as a full stack developer.",
+				"Developed a Website from scratch for PhD candidate nominations.",
+			],
+			tags: ["JavaScript", "Angular", "Reactjs"],
+			icon: "group",
+		},
+	],
 	education: [
 		{
 			title: "Masters in Computer Science and Engineering",
