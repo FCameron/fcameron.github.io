@@ -130,7 +130,7 @@ export default {
 				"Developed a Website from scratch for PhD candidate nominations.",
 			],
 			tags: ["JavaScript", "Angular", "Reactjs"],
-			icon: "group",
+			icon: "qrcode",
 		},
 	],
 	education: [
