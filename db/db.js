@@ -111,6 +111,20 @@ export default {
 	},
 	education: [
 		{
+			title: "Masters in Computer Science and Engineering",
+			duration: "2022-2023",
+			subtitle: "Cornell University",
+			details: [
+			],
+			tags: [
+				"Reinforcement Learning",
+				"Biomedical Images Analysis",
+				"Cryptography",
+				"Computer Networks",
+			],
+			icon: "graduation-cap",
+		},
+		{
 			title: "Bachelors in Computer Science and Engineering",
 			duration: "2018-2022",
 			subtitle: "Cornell University",
@@ -124,21 +138,7 @@ export default {
 				"Machine Learning",
 			],
 			icon: "graduation-cap",
-		},
-		{
-			title: "Masters in Computer Science and Engineering",
-			duration: "2022-2023",
-			dubtitle: "Cornell University",
-			details: [
-			],
-			tags: [
-				"Reinforcement Learning",
-				"Biomedical Images Analysis",
-				"Cryptography",
-				"Computer Networks",
-			],
-			icon: "graduation-cap",
-		}
+		}		
 	],
 	footer: [
 		{
