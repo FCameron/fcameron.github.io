@@ -60,7 +60,7 @@ export default {
 		web: [
 			{
 				projectName: "Skull CT Neural Net",
-				image: "images/programmingdiaries.png",
+				image: "images/skull-ct.png",
 				summary:
 					"Developed a CNN to predict the phase shift of ultrasound passing through skull.",
 				preview: "https://github.com/FCameron/neuralNetProject2018",
@@ -72,7 +72,7 @@ export default {
 			},
 			{
 				projectName: "Financial Scraper",
-				image: "images/findyourbank.png",
+				image: "images/web-scraper.png",
 				summary:
 					"Developed a Financial Web Scraper to pull information on NYSE listed stocks.",
 				preview: "https://github.com/FCameron/url_scraper",
@@ -82,7 +82,7 @@ export default {
 		software: [
 			{
 				projectName: "Chess App With AI",
-				image: "images/pizzaorderchatbot.png",
+				image: "images/chess.png",
 				summary:
 					"Chess App playable in ther terminal window using Ocaml.",
 				preview:
@@ -93,7 +93,7 @@ export default {
 		academic: [
 			{
 				projectName: "MRI Generator",
-				image: "images/nitwcse.jpg",
+				image: "images/gan.jpg",
 				summary:
 					"Researched using StyleGAN2 to generate brain MRI data for potential future network training.",
 				preview: "https://drive.google.com/file/d/1lDyhS3Ml2q9B-zO7wv-tOs90WBy7YJQg/view?usp=sharing",
@@ -101,7 +101,7 @@ export default {
 			},
 			{
 				projectName: "Minecraft Style World Generation",
-				image: "images/carrerhigh.png",
+				image: "images/world-gen.png",
 				summary:
 					"Procedural world generation along with basic movement controls and ray tracing.",
 				preview: "https://github.coecis.cornell.edu/aky26/CS4621-final-project",
