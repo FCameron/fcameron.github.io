@@ -93,7 +93,7 @@ export default {
 		academic: [
 			{
 				projectName: "MRI Generator",
-				image: "images/gan.jpg",
+				image: "images/gan.png",
 				summary:
 					"Researched using StyleGAN2 to generate brain MRI data for potential future network training.",
 				preview: "https://drive.google.com/file/d/1lDyhS3Ml2q9B-zO7wv-tOs90WBy7YJQg/view?usp=sharing",
