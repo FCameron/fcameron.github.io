@@ -118,7 +118,7 @@ export default {
 				"Worked as a teaching assistant.",
 				"Developed projects, proctored exams, graded assignments, and held office hours.",
 			],
-			tags: ["JavaScript", "Angular", "Reactjs"],
+			tags: ["Python", "OpenCV", "PyTorch", "PIL"],
 			icon: "group",
 		},
 		{
