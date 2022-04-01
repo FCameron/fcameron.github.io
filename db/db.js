@@ -111,7 +111,19 @@ export default {
 	},
 	experience: [
 		{
+			title: "CS 4670: Computer Vision",
+			duration: "January 2022 - May 2022",
+			subtitle: "Teaching Assistant",
+			details: [
+				"Worked as a teaching assistant.",
+				"Developed projects, proctored exams, graded assignments, and held office hours.",
+			],
+			tags: ["JavaScript", "Angular", "Reactjs"],
+			icon: "group",
+		},
+		{
 			title: "Stanford IT",
+			duration: "June 2018 - August 2018",
 			subtitle: "SDE Intern",
 			details: [
 				"Worked as a full stack developer.",
