@@ -854,7 +854,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.timeline-entry
 	.timeline-entry-inner
 	.timeline-icon.color-2 {
-	background: brown;
+	background: #AE7A84;
 	color: white;
 }
 .timeline-centered
@@ -2032,11 +2032,11 @@ ul {
 }
 
 .accordion li.open .link {
-	color: #b63b4d;
+	color: #AE7A84;
 }
 
 .accordion li.open i {
-	color: #b63b4d;
+	color: #AE7A84;
 }
 
 .accordion li.open i.fa-chevron-down {
@@ -2067,7 +2067,7 @@ ul {
 }
 
 .submenu li:hover {
-	background: RGBA(44, 152, 240, 1);
+	background: #84AE7A;
 	box-shadow: -1px 1px 51px -20px rgba(0,0,0,1);
 	border-radius: 5px;
 	color: #fff;
