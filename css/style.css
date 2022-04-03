@@ -854,7 +854,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.timeline-entry
 	.timeline-entry-inner
 	.timeline-icon.color-2 {
-	background: #AE7A84;
+	background: Brown;
 	color: white;
 }
 .timeline-centered
@@ -2032,11 +2032,11 @@ ul {
 }
 
 .accordion li.open .link {
-	color: #AE7A84;
+	color: Brown;
 }
 
 .accordion li.open i {
-	color: #AE7A84;
+	color: Brown;
 }
 
 .accordion li.open i.fa-chevron-down {
