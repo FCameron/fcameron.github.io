@@ -1157,33 +1157,33 @@ body.offcanvas .colorlib-nav-toggle {
 	right: -32px;
 }
 .progress-bar.color-1 {
-	background: #2c98f0;
+	background: #AB8CA1;
 }
 .progress-bar.color-1:after {
-	background: #2c98f0;
+	background: #AB8CA1;
 }
 .progress-bar.color-1 span {
-	color: #2c98f0;
+	color: #AB8CA1;
 }
 .progress-bar.color-2 {
-	background: #ec5453;
+	background: #ABA68C;
 }
 .progress-bar.color-2:after {
-	background: #ec5453;
+	background: #ABA68C;
 }
 .progress-bar.color-2 span {
-	color: #ec5453;
+	color: #ABA68C;
 	padding-top: 2px;
 }
 
 .progress-bar.color-3 {
-	background: #8c92ac;
+	background: #8CAB96;
 }
 .progress-bar.color-3:after {
-	background: #8c92ac;
+	background: #8CAB96;
 }
 .progress-bar.color-3 span {
-	color: #8c92ac;
+	color: #8CAB96;
 }
 .progress-bar.color-4 {
 	background: #a84cb8;
