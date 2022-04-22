@@ -81,7 +81,7 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Chess App With AI",
+				projectName: "Terminal Chess",
 				image: "images/chess.png",
 				summary:
 					"Chess App playable in ther terminal window using Ocaml.",
