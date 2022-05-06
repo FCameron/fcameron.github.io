@@ -22,13 +22,13 @@ export default {
 		{
 			title: "Version Control",
 			skillName: "GitHub",
-			color: "2",
+			color: "1",
 			percentage: "70",
 		},
 		{
 			title: "Machine Learning",
 			skillName: "PyTorch, Tensorflow",
-			color: "3",
+			color: "1",
 			percentage: "70",
 		},
 		{
@@ -40,7 +40,7 @@ export default {
 		{
 			title: "Frameworks/Libraries",
 			skillName: "Angular, Reactjs",
-			color: "3",
+			color: "1",
 			percentage: "50",
 		},
 		{
@@ -52,7 +52,7 @@ export default {
 		{
 			title: "Editor",
 			skillName: "VS Code",
-			color: "2",
+			color: "1",
 			percentage: "40",
 		},
 	],
