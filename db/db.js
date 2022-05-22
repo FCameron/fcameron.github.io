@@ -8,7 +8,7 @@ export default {
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me feel free to send me an email at fcgiarrusso@gmail.com",
+				"If you would like to get in touch with me feel free to send me an email at fcgiarrusso [at] gmail.com",
 			],
 		},
 	},
