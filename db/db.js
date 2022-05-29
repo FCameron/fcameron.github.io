@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi",
-				"I'm Cameron Giarrusso. I’m an undergrad studying CS at Cornell University",
+				"I'm Cameron Giarrusso. I’m a graduate student studying Computer Science at Cornell University",
 			],
 		},
 		contact: {
@@ -17,23 +17,23 @@ export default {
 			title: "Languages",
 			skillName: "Java, Python",
 			color: "1",
-			percentage: "70",
+			percentage: "80",
 		},
 		{
 			title: "Version Control",
 			skillName: "GitHub",
 			color: "2",
-			percentage: "70",
+			percentage: "80",
 		},
 		{
 			title: "Machine Learning",
 			skillName: "PyTorch, Tensorflow",
 			color: "3",
-			percentage: "70",
+			percentage: "80",
 		},
 		{
 			title: "Languages",
-			skillName: "Javascipt, C++",
+			skillName: "Javascipt, C, C++",
 			color: "1",
 			percentage: "60",
 		},
@@ -53,11 +53,26 @@ export default {
 			title: "Editor",
 			skillName: "VS Code",
 			color: "2",
-			percentage: "40",
+			percentage: "60",
 		},
 	],
 	projects: {
 		academic: [
+			{
+				projectName: "CT-Contrast Kidney Segmentation",
+				image: "images/kidney.png",
+				summary:
+					"Developed a 3D image processing pipeline for kidney segmentation from computed tomography (CT) images.",
+				preview: "https://docs.google.com/document/d/12a7cKaOxiNGEic-U8xVOwXeb9C1XIz59odrq5Bkurvs/edit?usp=sharing",
+				techStack: [
+					"Python",
+					"Numpy",
+					"OpenCV",
+					"SciPy",
+					"SKImage",
+					"MatPLotLib",
+				],
+			},
 			{
 				projectName: "Skull CT Neural Net",
 				image: "images/skull-ct.png",
@@ -115,10 +130,10 @@ export default {
 			duration: "January 2022 - May 2022",
 			subtitle: "Teaching Assistant",
 			details: [
-				"Worked as a teaching assistant.",
-				"Developed projects, proctored exams, graded assignments, and held office hours.",
+				"Worked as a teaching assistant developing projects, proctoring exams, grading assignments, and holding office hours.",
+				"Develop a coding project to teach core concepts in convolutional neural network design, image augmentation, and adversarial image generation",
 			],
-			tags: ["Python", "OpenCV", "PyTorch", "PIL"],
+			tags: ["Python", "OpenCV", "PyTorch", "PIL", "NumPy", "SciPy"],
 			icon: "group",
 		},
 		{
@@ -135,21 +150,20 @@ export default {
 	],
 	education: [
 		{
-			title: "Masters in Computer Science and Engineering",
+			title: "Master of Engineering in Computer Science",
 			duration: "2022-2023",
 			subtitle: "Cornell University",
 			details: [
 			],
 			tags: [
-				"Reinforcement Learning",
-				"Biomedical Images Analysis",
-				"Cryptography",
-				"Computer Networks",
+				"Computer Vision",
+				"Advanced Topics in Machine Learning",
+				"Large Scale Machine Learning",
 			],
 			icon: "graduation-cap",
 		},
 		{
-			title: "Bachelors in Computer Science and Engineering",
+			title: "Bachelors of Science in Computer Science",
 			duration: "2018-2022",
 			subtitle: "Cornell University",
 			details: [
@@ -160,13 +174,15 @@ export default {
 				"Computer Vision",
 				"Computer Graphics",
 				"Machine Learning",
+				"Reinforcement Learning",
+				"Biomedical Images Analysis",
 			],
 			icon: "graduation-cap",
 		}		
 	],
 	footer: [
 		{
-			label: "Dev Profiles",
+			label: "Dev Profile",
 			data: [
 				{
 					text: "GitHub",
@@ -185,14 +201,10 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/fcameron/fcameron.github.io",
-				},
 			],
 		},
 		{
-			label: "Social Profiles",
+			label: "Social Profile",
 			data: [
 				{
 					text: "Linkedin",
