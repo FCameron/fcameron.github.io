@@ -188,6 +188,10 @@ export default {
 					text: "GitHub",
 					link: "https://github.com/fcameron",
 				},
+				{
+					text: "LeetCode",
+					link: "https://leetcode.com/fcgiarrusso/",
+				},
 			],
 		},
 		{
