@@ -15,45 +15,45 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Java, Python",
+			skillName: "Python",
 			color: "1",
-			percentage: "80",
+			percentage: "70",
 		},
 		{
-			title: "Version Control",
-			skillName: "GitHub",
+			title: "Languages",
+			skillName: "Java",
 			color: "2",
-			percentage: "80",
+			percentage: "50",
 		},
 		{
 			title: "Machine Learning",
 			skillName: "PyTorch, Tensorflow",
-			color: "3",
-			percentage: "80",
+			color: "1",
+			percentage: "60",
 		},
 		{
 			title: "Languages",
 			skillName: "Javascipt, C, C++",
-			color: "1",
-			percentage: "60",
+			color: "3",
+			percentage: "30",
 		},
 		{
 			title: "Frameworks/Libraries",
 			skillName: "Angular, Reactjs",
-			color: "3",
+			color: "2",
 			percentage: "50",
 		},
 		{
-			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
+			title: "Libraries",
+			skillName: "Numpy, Pandas",
 			color: "1",
-			percentage: "40",
+			percentage: "70",
 		},
 		{
-			title: "Editor",
-			skillName: "VS Code",
-			color: "2",
-			percentage: "60",
+			title: "Languages",
+			skillName: "SQL",
+			color: "3",
+			percentage: "40",
 		},
 	],
 	projects: {
@@ -130,7 +130,7 @@ export default {
 			duration: "January 2022 - May 2022",
 			subtitle: "Teaching Assistant",
 			details: [
-				"Worked as a teaching assistant developing projects, proctoring exams, grading assignments, and holding office hours.",
+				"Worked as a teaching assistant developing projects, proctoring exams, grading assignments, and holding office hours",
 				"Develop a coding project to teach core concepts in convolutional neural network design, image augmentation, and adversarial image generation",
 			],
 			tags: ["Python", "OpenCV", "PyTorch", "PIL", "NumPy", "SciPy"],
@@ -141,10 +141,21 @@ export default {
 			duration: "June 2018 - August 2018",
 			subtitle: "SDE Intern",
 			details: [
-				"Worked as a full stack developer.",
-				"Developed a Website from scratch for PhD candidate nominations.",
+				"Worked as a full stack developer",
+				"Developed a Website from scratch for PhD candidate nominations",
 			],
 			tags: ["JavaScript", "Angular", "Reactjs"],
+			icon: "qrcode",
+		},
+		{
+			title: "Stanford Radiologcal Sciences Laboratory",
+			duration: "August 2017 - May 2018",
+			subtitle: "Research Assistant",
+			details: [
+				"Worked on a Convolutional Neural Network using Tensorflow",
+				"The network was designed to take in sets of splines from Skull CT images and predict the propagation of ultrasound through the skull",
+			],
+			tags: ["Python", "Tensorflow", "DICOM"],
 			icon: "qrcode",
 		},
 	],
@@ -156,9 +167,9 @@ export default {
 			details: [
 			],
 			tags: [
-				"Computer Vision",
-				"Advanced Topics in Machine Learning",
-				"Large Scale Machine Learning",
+				"Deep Learning",
+				"Natural Language Processing",
+				"Biomedical Image Analysis",
 			],
 			icon: "graduation-cap",
 		},
@@ -169,20 +180,17 @@ export default {
 			details: [
 			],
 			tags: [
+				"Object Oriented Programming",
 				"Data Structures & Algorithms",
-				"Operating Systems",
 				"Computer Vision",
-				"Computer Graphics",
 				"Machine Learning",
-				"Reinforcement Learning",
-				"Biomedical Images Analysis",
 			],
 			icon: "graduation-cap",
 		}		
 	],
 	footer: [
 		{
-			label: "Dev Profile",
+			label: "Dev Profiles",
 			data: [
 				{
 					text: "GitHub",
